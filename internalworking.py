@@ -1,10 +1,10 @@
-print("Hey I am Raksha") 
+print("hello")
 
 for c in "chai" :
     print(c)
     
 import math
-print (math.pi)
+print(math.pi)
 
 username = "chaiaurcode"
 print(len(username))
@@ -29,10 +29,3 @@ print(myD['one'])
 
 myTup = (1, 2, 3)
 print(myTup[0])
-
-
-
-
-
-
-
