@@ -1,0 +1,115 @@
+Ques: About python and python history?
+Ans:Python is a high-level, interpreted programming language known for its readability and simplicity.
+    Created by Guido van Rossum and first released in 1991, 
+    Python has since become one of the most popular languages in the world,
+     widely used in various domains such as web development, data science, artificial intelligence, scientific computing, and more.
+
+Key Features
+Readability: Clear, easy-to-understand syntax.
+Interpreted: Executes code line-by-line.
+Dynamically Typed: Types determined at runtime.
+High-Level: Abstracts complex system details.
+Extensive Libraries: Rich ecosystem for various applications.
+
+
+Ques: 5 python commands?
+Ans: 1: print
+     2: type
+     3: range
+     4: input 
+     5: len 
+
+
+Ques: Define variables?
+Ans: In Python, variables are containers for storing data values. Unlike other programming languages,
+     such as Java, Python has no command for declaring a variable.
+     For examaple: the following code creates a variable called name and assigns it the value "Alice":
+
+
+Ques:What are the operators and types of operations?
+Ans: 1. Arithmetic Operators
+     These operators perform mathematical operations:
+
++ : Addition
+- : Subtraction
+* : Multiplication
+/ : Division
+% : Modulus (remainder)
+** : Exponentiation (power)
+// : Floor Division
+
+
+2. Comparison Operators
+These operators compare two values and return a boolean result:
+
+== : Equal to
+!= : Not equal to
+> : Greater than
+< : Less than
+>= : Greater than or equal to
+<= : Less than or equal to
+
+
+3. Logical Operators
+These operators perform logical operations:
+
+and : Logical AND
+or : Logical OR
+not : Logical NOT
+
+
+4. Bitwise Operators
+These operators perform bit-level operations:
+
+& : Bitwise AND
+| : Bitwise OR
+^ : Bitwise XOR
+~ : Bitwise NOT
+<< : Left Shift
+>> : Right Shift
+
+
+5. Assignment Operators
+These operators assign values to variables and can perform operations as part of the assignment:
+
+= : Assignment
++= : Add and assign
+-= : Subtract and assign
+*= : Multiply and assign
+/= : Divide and assign
+%= : Modulus and assign
+**= : Exponentiation and assign
+//= : Floor division and assign
+&= : Bitwise AND and assign
+|= : Bitwise OR and assign
+^= : Bitwise XOR and assign
+<<= : Left shift and assign
+>>= : Right shift and assign
+
+
+6. Identity Operators
+These operators compare the memory locations of two objects:
+
+is : Evaluates to True if the variables on either side refer to the same object
+is not : Evaluates to True if the variables on either side do not refer to the same object
+7. Membership Operators
+
+
+These operators test for membership in a sequence (like strings, lists, or tuples):
+
+in : Evaluates to True if the value is found in the sequence
+not in : Evaluates to True if the value is not found in the sequence
+
+
+8. Special Operators
+= : Assignment
+lambda : Used to create anonymous functions
+
+
+
+
+
+
+
+
+
