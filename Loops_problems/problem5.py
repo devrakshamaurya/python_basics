@@ -1,4 +1,5 @@
-
+#factorial calculator
+#compute the factorial of a number using a while loop 
 
 
 number = 5
